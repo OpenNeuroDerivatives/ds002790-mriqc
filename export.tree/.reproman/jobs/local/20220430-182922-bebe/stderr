@@ -1,0 +1,44 @@
+Warning: Permanently added 'c101-094' (ED25519) to the list of known hosts.
+WARNING (05/01/22 16:04:04): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4292375.hostlist.PE7xpY8C to get hosts
+starting job on c101-094
+starting job on c101-104
+starting job on c101-193
+starting job on c102-024
+starting job on c102-054
+starting job on c102-093
+starting job on c102-171
+starting job on c103-022
+starting job on c103-102
+starting job on c104-032
+starting job on c104-051
+starting job on c104-091
+starting job on c104-142
+starting job on c104-154
+starting job on c104-193
+starting job on c105-152
+starting job on c106-091
+starting job on c106-134
+starting job on c106-172
+starting job on c106-182
+starting job on c106-194
+starting job on c107-022
+starting job on c107-111
+starting job on c108-184
+starting job on c115-033
+starting job on c117-153
+starting job on c117-154
+starting job on c117-161
+starting job on c118-153
+starting job on c119-122
+starting job on c123-021
+starting job on c127-002
+starting job on c127-071
+starting job on c128-011
+starting job on c169-033
+starting job on c169-034
+starting job on c184-051
+starting job on c184-052
+starting job on c187-112
+starting job on c187-113
+Terminated
